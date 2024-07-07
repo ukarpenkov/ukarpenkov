@@ -6,7 +6,5 @@
   <a href="https://t.me/UraKarpenkov">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     <a/>
-  <a href="mailto:truloveu@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    <a/>
+  <img src="https://img.shields.io/badge/Gmffred?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
 </div>
