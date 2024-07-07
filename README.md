@@ -23,6 +23,7 @@
 ![VK Mini Apps](https://img.shields.io/badge/VK%20Mini%20Apps-blue.svg?style=for-the-badge&logo=vk&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-darkblue.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![PUG](https://img.shields.io/badge/pug-yellow.svg?style=for-the-badge&logo=PUG&logoColor=white)
+![TS](https://img.shields.io/badge/Type%20script-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 
