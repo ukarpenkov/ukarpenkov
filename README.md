@@ -3,6 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-    <a href="https://t.me/UraKarpenkov">
+  <a href="https://t.me/UraKarpenkov">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    <a/>
+  <a href="truloveu@gmail.com>
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <a/>
 </div>
