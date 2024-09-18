@@ -10,6 +10,9 @@
 <div id="views" align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-ukarpenkov&style=flat-square&color=blue" alt=""/>
 </div>
+<div id="views" align="center">
+  <img src="https://www.codewars.com/users/ura636/badges/micro" alt=""/>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukarpenkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,6 +26,7 @@
 ![VK Mini Apps](https://img.shields.io/badge/VK%20Mini%20Apps-blue.svg?style=for-the-badge&logo=vk&logoColor=white)
 ![PUG](https://img.shields.io/badge/pug-yellow.svg?style=for-the-badge&logo=PUG&logoColor=white)
 ![TS](https://img.shields.io/badge/Type%20script-darkblue.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 
 
