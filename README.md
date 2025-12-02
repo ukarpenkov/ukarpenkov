@@ -14,7 +14,7 @@
   <img src="https://www.codewars.com/users/ura636/badges/micro" alt=""/>
 </div>
 
-![Metrics](https://metrics.lecoq.io/ukarpenkov?template=classic&languages=1&language=javascript&language=typescript&language=html&language=css&config.timezone=Europe%2FAmsterdam)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ukarpenkov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Used
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
