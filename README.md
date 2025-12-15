@@ -7,7 +7,6 @@
 
 ## 📊 GitHub Metrics
 
-### 🔥 main metrics
 ![Metrics](https://metrics.lecoq.io/ukarpenkov?template=classic&config.timezone=Europe%2FAmsterdam)
 
 ---
