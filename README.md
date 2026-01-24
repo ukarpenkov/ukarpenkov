@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Metrics
 
-![Metrics](https://metrics.lecoq.io/ukarpenkov?template=classic&config.timezone=Europe%2FAmsterdam)
+![Metrics]([https://metrics.lecoq.io/ukarpenkov?template=classic&config.timezone=Europe%2FAmsterdam](https://github-readme-stats.vercel.app/api?username=ukarpenkov&show_icons=true&theme=radical)](https://github.com/ukarpenkov))
 
 ---
 
