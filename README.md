@@ -6,9 +6,7 @@
 ---
 
 ## 📊 GitHub Metrics
-[![Metrics](https://github-readme-stats.vercel.app/api?username=ukarpenkov&theme=dark&show_icons=true)
-
-
+![Metrics](https://github-readme-stats.vercel.app/api?username=ukarpenkov&theme=shadow_blue&show_icons=true)]
 
 ---
 
