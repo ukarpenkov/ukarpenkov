@@ -6,9 +6,8 @@
 ---
 
 ## 📊 GitHub Metrics
-[![Metrics](https://github-readme-stats.vercel.app/api?username=ukarpenkov)](https://github.com/ukarpenkov/github-readme-stats)
+[![Metrics](https://github-readme-stats.vercel.app/api?username=ukarpenkov&theme=dark&show_icons=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ukarpenkov&show_icons=true)
 
 
 ---
