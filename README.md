@@ -9,7 +9,7 @@
 
 - ⚡ Frontend Developer (React + TypeScript)
 - 📚 I’m constantly improving my JavaScript / React / and UI architecture skills. 
-- 📨 Telegram: **[@UraKarpenkov](https://t.me/UraKarpenkov)**
+- 📨 Telegram: **[@UraKarpenkov](https://t.me/goYury)**
 - 📧 Email: **[drop663@gmail.com](mailto:drop663@gmail.com)**
 ---
 
