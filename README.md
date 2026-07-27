@@ -9,8 +9,8 @@
 
 - ⚡ Frontend Developer (React + TypeScript)
 - 📚 I’m constantly improving my JavaScript / React / and UI architecture skills. 
-- 📨 Telegram: **[@goYury](https://t.me/goYury)**
-- 📧 Email: **[drop663@gmail.com](mailto:drop663@gmail.com)**
+- 📨 Telegram: **[@goYury](https://t.me/goyury)**
+- 📧 Email: **[truloveu@gmail.com>](mailto:truloveu@gmail.com>)**
 ---
 
 ## ⭐ Codewars
