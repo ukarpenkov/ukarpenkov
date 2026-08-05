@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- ⚡ Frontend Developer (React + TypeScript)
+- ⚡ Fullstack Developer (React, TypeScript, Node.js)
 - 📚 I’m constantly improving my JavaScript / React / and UI architecture skills. 
 - 📨 Telegram: **[@goyury](https://t.me/goyury)**
 - 📧 Email: **[truloveu@gmail.com>](mailto:truloveu@gmail.com>)**
