@@ -26,10 +26,4 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ukarpenkov&show_icons=true&theme=tokyonight)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ukarpenkov&layout=compact&theme=tokyonight)
-
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ukarpenkov&theme=tokyo-night)
-
 ![GitHub streak](https://streak-stats.demolab.com?user=ukarpenkov&theme=tokyonight)
