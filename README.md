@@ -26,8 +26,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 
-![GitHub streak](https://streak-stats.demolab.com?user=ukarpenkov&theme=tokyonight)
-
 <div align="center">
   <img src="https://gh-badges-nine.vercel.app/fallout?user=ukarpenkov" alt="GitHub activity, 3 months" width="495" height="180"/>
 </div>
